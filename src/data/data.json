@@ -1,0 +1,228 @@
+{
+  "en": {
+    "ui": {
+      "darkMode": "DARK MODE",
+      "switchLang": "TÜRKÇE'YE GEÇ",
+      "nav": {
+        "skills": "Skills",
+        "projects": "Projects",
+        "hireMe": "Hire me"
+      }
+    },
+    "hero": {
+      "name": "Sefa Bolat",
+      "title": "Turning Ideas Into Digital Experiences",
+      "text": "I'm an aspiring Frontend Developer passionate about building modern, user-focused web interfaces. I develop projects using frontend technologies such as React, JavaScript, HTML, and CSS, continuously improving my skills by applying what I learn to real-world projects.",
+      "hireMe": "Hire me",
+      "github": "Github",
+      "linkedin": "Linkedin"
+    },
+    "skills": {
+      "title": "Skills",
+      "items": [
+        {
+          "name": "Java Script",
+          "text": "I use JavaScript to bring interactivity and dynamic features to web pages. I handle user interactions, process data, and improve the functionality of web applications."
+        },
+        {
+          "name": "React.Js",
+          "text": "I build modern, user-friendly web interfaces using reusable components. With React, I create component-based applications and work with state management to build interactive user experiences."
+        },
+        {
+          "name": "Node.Js",
+          "text": "I am learning and using Node.js to build server-side applications with JavaScript. I am developing my backend skills in areas such as APIs, server-side operations, and data management."
+        }
+      ]
+    },
+    "profile": {
+      "title": "Profile",
+      "subtitle": "Profile",
+      "aboutTitle": "About Me",
+      "info": [
+        {
+          "label": "Date of Birth",
+          "value": "11.03.1996"
+        },
+        {
+          "label": "City of Residence",
+          "value": "Bursa"
+        },
+        {
+          "label": "Education",
+          "value": "Eskişehir Anadolu Ünv. İşletme yönetimi "
+        },
+        {
+          "label": "Preferred Role",
+          "value": "Full-Stack Developer | UI Enthusiast"
+        }
+      ],
+      "about": [
+        "I value continuously improving myself in software development and learning new technologies. By working with JavaScript, React.js and Node.js, I aim to gain knowledge and experience in both frontend and backend development.",
+        "I enjoy turning theoretical knowledge into practice by building projects, improving my problem-solving skills, and creating useful digital products for users. My goal is to increase my technical skills and take part in creative and functional projects."
+      ]
+    },
+    "projects": {
+      "title": "Projects",
+      "items": [
+        {
+          "name": "Personal Website",
+          "text": "My personal portfolio built with React and Tailwind CSS. It supports Turkish and English content, dark mode and remembers your preferences with localStorage.",
+          "tags": [
+            "react",
+            "tailwind",
+            "axios"
+          ],
+          "github": "#",
+          "site": "#"
+        },
+        {
+          "name": "Pizza Order App",
+          "text": "A web app where users can browse the pizza menu and place an order through an order form. Currently in development.",
+          "tags": [
+            "react",
+            "react-router",
+            "axios",
+            "bootstrap"
+          ],
+          "github": "https://github.com/sefabolt/fsweb-s8-challenge-pizza",
+          "site": "https://fsweb-s8-challenge-pizza-1co8wciwb-sefabolt-8634.vercel.app/"
+        }
+      ],
+      "viewSite": "View Site"
+    },
+    "links": {
+      "github": "https://github.com/sefabolt",
+      "linkedin": "#",
+      "blog": "#"
+    },
+    "footer": {
+      "title": "Let's work together on your next product.",
+      "email": "sefabolt@gmail.com",
+      "blog": "Personal Blog"
+    },
+    "form": {
+      "title": "Let's talk",
+      "name": "Your name",
+      "email": "Your email",
+      "message": "Your message",
+      "send": "Send",
+      "close": "Close",
+      "pending": "Sending your message...",
+      "success": "Message sent successfully!",
+      "error": "Something went wrong, please try again."
+    }
+  },
+  "tr": {
+    "ui": {
+      "darkMode": "KARANLIK MOD",
+      "switchLang": "SWITCH TO ENGLISH",
+      "nav": {
+        "skills": "Yetenekler",
+        "projects": "Projeler",
+        "hireMe": "İşe al"
+      }
+    },
+    "hero": {
+      "name": "Sefa Bolat",
+      "title": "Fikirleri dijital deneyimlere dönüştürüyorum.",
+      "text": "Frontend Developer olarak kendimi geliştiren, modern ve kullanıcı odaklı web arayüzleri geliştirmeye odaklanan bir yazılım geliştiricisiyim. React, JavaScript, HTML ve CSS başta olmak üzere frontend teknolojileriyle projeler geliştiriyor, öğrendiklerimi gerçek projeler üzerinde uygulayarak kendimi sürekli geliştiriyorum.",
+      "hireMe": "İşe al",
+      "github": "Github",
+      "linkedin": "Linkedin"
+    },
+    "skills": {
+      "title": "Yetenekler",
+      "items": [
+        {
+          "name": "Java Script",
+          "text": "Web sayfalarına etkileşim ve dinamik özellikler kazandırmak için JavaScript kullanıyorum. Kullanıcı etkileşimlerini yönetiyor, verileri işliyor ve web uygulamalarının işlevselliğini geliştiriyorum."
+        },
+        {
+          "name": "React.Js",
+          "text": "Yeniden kullanılabilir bileşenler oluşturarak modern ve kullanıcı dostu web arayüzleri geliştiriyorum. React ile bileşen tabanlı yapılar kuruyor ve uygulamaların durum yönetimi üzerinde çalışıyorum."
+        },
+        {
+          "name": "Node.Js",
+          "text": "JavaScript kullanarak sunucu tarafında çalışan uygulamalar geliştirmek için Node.js öğreniyor ve kullanıyorum. API'ler, sunucu işlemleri ve veri yönetimi gibi backend konularında kendimi geliştiriyorum."
+        }
+      ]
+    },
+    "profile": {
+      "title": "Profil",
+      "subtitle": "Profil",
+      "aboutTitle": "Hakkımda",
+      "info": [
+        {
+          "label": "Doğum tarihi",
+          "value": "11.03.1996"
+        },
+        {
+          "label": "İkamet Şehri",
+          "value": "Bursa"
+        },
+        {
+          "label": "Eğitim Durumu",
+          "value": "Eskişehir Anadolu Ünv. İşletme yönetimi "
+        },
+        {
+          "label": "Tercih Ettiği Rol",
+          "value": "Full-Stack Developer | UI Enthusiast"
+        }
+      ],
+      "about": [
+        "Yazılım geliştirme alanında kendimi sürekli geliştirmeye ve yeni teknolojiler öğrenmeye önem veriyorum. JavaScript, React.js ve Node.js üzerine çalışarak hem frontend hem de backend alanlarında bilgi ve deneyim kazanmayı hedefliyorum.",
+        "Projeler geliştirerek teorik bilgilerimi pratiğe dönüştürmeyi, problem çözme becerilerimi geliştirmeyi ve kullanıcılar için faydalı dijital ürünler ortaya çıkarmayı seviyorum. Hedefim, teknik yetkinliklerimi artırarak yaratıcı ve işlevsel projelerde yer almak."
+      ]
+    },
+    "projects": {
+      "title": "Projeler",
+      "items": [
+        {
+          "name": "Kişisel Web Sitesi",
+          "text": "React ve Tailwind CSS ile geliştirdiğim kişisel portfolyo sitesi. Türkçe ve İngilizce içerik, karanlık mod destekler ve tercihleri localStorage ile hatırlar.",
+          "tags": [
+            "react",
+            "tailwind",
+            "axios"
+          ],
+          "github": "#",
+          "site": "#"
+        },
+        {
+          "name": "Pizza Sipariş Uygulaması",
+          "text": "Kullanıcıların pizza menüsünü inceleyip sipariş formu üzerinden sipariş oluşturabildiği bir web uygulaması. Geliştirme aşamasında.",
+          "tags": [
+            "react",
+            "react-router",
+            "axios",
+            "bootstrap"
+          ],
+          "github": "https://github.com/sefabolt/fsweb-s8-challenge-pizza",
+          "site": "https://fsweb-s8-challenge-pizza-1co8wciwb-sefabolt-8634.vercel.app/"
+        }
+      ],
+      "viewSite": "Siteyi Gör"
+    },
+    "links": {
+      "github": "https://github.com/sefabolt",
+      "linkedin": "#",
+      "blog": "#"
+    },
+    "footer": {
+      "title": "Bir sonraki ürününüz üzerinde birlikte çalışalım.",
+      "email": "sefabolt@gmail.com",
+      "blog": "Kişisel Blog"
+    },
+    "form": {
+      "title": "Konuşalım",
+      "name": "Adınız",
+      "email": "E-posta adresiniz",
+      "message": "Mesajınız",
+      "send": "Gönder",
+      "close": "Kapat",
+      "pending": "Mesajınız gönderiliyor...",
+      "success": "Mesaj başarıyla gönderildi!",
+      "error": "Bir hata oluştu, lütfen tekrar deneyin."
+    }
+  }
+}
