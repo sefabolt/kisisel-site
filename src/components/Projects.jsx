@@ -37,10 +37,20 @@ export default function Projects() {
             </ul>
 
             <div className="mt-4 flex justify-between text-xs">
-              <a href={project.github} target="_blank" rel="noreferrer" className="underline text-primary dark:text-indigo-300">
+              <a
+                href={project.github}
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-primary dark:text-indigo-300"
+              >
                 Github
               </a>
-              <a href={project.site} target="_blank" rel="noreferrer" className="underline text-primary dark:text-indigo-300">
+              <a
+                href={project.site}
+                target="_blank"
+                rel="noreferrer"
+                className="underline text-primary dark:text-indigo-300"
+              >
                 {projects.viewSite}
               </a>
             </div>
