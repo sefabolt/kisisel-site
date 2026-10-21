@@ -72,8 +72,8 @@
             "tailwind",
             "axios"
           ],
-          "github": "#",
-          "site": "#"
+          "github": "https://github.com/sefabolt/kisisel-site",
+          "site": "https://kisisel-site-w941fs5tf-sefabolt-8634.vercel.app"
         },
         {
           "name": "Pizza Order App",
@@ -185,8 +185,8 @@
             "tailwind",
             "axios"
           ],
-          "github": "#",
-          "site": "#"
+          "github": "https://github.com/sefabolt/kisisel-site",
+          "site": "https://kisisel-site-w941fs5tf-sefabolt-8634.vercel.app"
         },
         {
           "name": "Pizza Sipariş Uygulaması",
