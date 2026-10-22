@@ -85,7 +85,7 @@
             "bootstrap"
           ],
           "github": "https://github.com/sefabolt/fsweb-s8-challenge-pizza",
-          "site": "fsweb-s8-challenge-pizza-sooty.vercel.app/"
+          "site": "https://fsweb-s8-challenge-pizza-sooty.vercel.app/"
         }
       ],
       "viewSite": "View Site"
